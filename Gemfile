@@ -15,8 +15,8 @@ gemspec
 #gem 'ruby-debug19'
 
 group :development, :test do
-  gem "thin"
-  gem 'rails', '= 4.2.7'
+  gem 'thin'
+  gem 'rails', '~> 5.0.2'
   gem 'responders', '~> 2.0'
   gem 'pry'
 

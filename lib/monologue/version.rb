@@ -1,3 +1,3 @@
 module Monologue
-  VERSION = "0.5.0"
+  VERSION = '11.11.11'
 end
